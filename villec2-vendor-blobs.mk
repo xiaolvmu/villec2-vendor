@@ -82,8 +82,10 @@ PRODUCT_COPY_FILES += \
   vendor/htc-extra/villec2/proprietary/etc/firmware/vidc.mdt:system/etc/firmware/vidc.mdt \
   vendor/htc-extra/villec2/proprietary/lib/egl/eglsubAndroid.so:system/lib/egl/eglsubAndroid.so \
   vendor/htc-extra/villec2/proprietary/lib/egl/libEGL_adreno200.so:system/lib/egl/libEGL_adreno200.so \
+  vendor/htc-extra/villec2/proprietary/lib/egl/libGLES_android.so:system/lib/egl/libGLES_android.so \
   vendor/htc-extra/villec2/proprietary/lib/egl/libGLESv1_CM_adreno200.so:system/lib/egl/libGLESv1_CM_adreno200.so \
   vendor/htc-extra/villec2/proprietary/lib/egl/libGLESv2_adreno200.so:system/lib/egl/libGLESv2_adreno200.so \
+  vendor/htc-extra/villec2/proprietary/lib/egl/libGLESv2S3D_adreno200.so:system/lib/egl/libGLESv2S3D_adreno200.so \
   vendor/htc-extra/villec2/proprietary/lib/egl/libq3dtools_adreno200.so:system/lib/egl/libq3dtools_adreno200.so \
   vendor/htc-extra/villec2/proprietary/lib/libC2D2.so:system/lib/libC2D2.so \
   vendor/htc-extra/villec2/proprietary/lib/libc2d2_z180.so:system/lib/libc2d2_z180.so \
